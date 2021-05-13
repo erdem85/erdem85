@@ -2,7 +2,6 @@
 
 ### Contact
 - [Twitter](https://twitter.com/erdem0085)
-- [Telegram](https://t.me/erdemhacisalihoglu)
 - [Discord](https://discord.com/users/292692556809109534)
 
 ### Most Writing
