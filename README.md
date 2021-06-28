@@ -3,6 +3,7 @@
 ### Contact
 - [Twitter](https://twitter.com/erdem0085)
 - [Discord](https://discord.com/users/292692556809109534)
+- [Telegram](https://t.me/erdemhacisalihoglu)
 
 ### Most Writing
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />](https://www.typescriptlang.org)
