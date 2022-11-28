@@ -7,7 +7,7 @@ backend & ros developer, student
 Hi! I am 17 years old, high school student in Turkey. I want to be backend developer in future. I'm currently running Hack Club (a student-led tech club) in my school! I participated FIRST Robotics Competition, Turkish national technology competition Teknofest and I made a degree in local tech competition TUBITAK in Turkey!
 
 * 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [erd@tuta.io](mailto:erd@tuta.io)
+* ✉️  You can contact me at [erdm@duck.com](mailto:erdm@duck.com)
 * 🚀  I'm currently working on [dizi.site](http://dizi.site)
 * 🧠  I'm learning Flutter & NuxtJS
 * 🤝  I'm open to collaborating on javascript projects
