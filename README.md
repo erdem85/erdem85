@@ -8,7 +8,7 @@ Hi! I am 17 years old, high school student in Turkey. I want to be backend devel
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [erdm@duck.com](mailto:erdm@duck.com)
-* 🚀  I'm currently working on [anything](http://example.com) (i found a job, i working on company :tirol:)
+* 🚀  I'm currently working on [anything](http://example.com) (i found a job, i'm working on company :tirol:)
 * 🧠  I'm learning Flutter & NuxtJS
 * 🤝  I'm open to collaborating on javascript projects
 
