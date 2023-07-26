@@ -6,10 +6,7 @@ backend & ros developer, student
 
 Hi! I am 17 years old, high school student in Turkey. I want to be backend developer in future. I'm currently running Hack Club (a student-led tech club) in my school! I participated FIRST Robotics Competition, Turkish national technology competition Teknofest and I made a degree in local tech competition TUBITAK in Turkey!
 
-* 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [erdm@disroot.org](mailto:erdm@disroot.org)
-* 🚀  I'm currently working on [anything](http://example.com) (i found a job, i'm working on company :tirol:)
-* 🤝  I'm open to collaborating on javascript & golang projects
 
 ### Skills
 
@@ -27,17 +24,3 @@ Hi! I am 17 years old, high school student in Turkey. I want to be backend devel
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/889937921073881138" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/erdem85" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/erdemhacisalihoglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/erdemhacisalihoglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/erdmeth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/erdem85"><img src="https://github-readme-stats.vercel.app/api?username=erdem85&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="erdem85's GitHub stats" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/erdm"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
