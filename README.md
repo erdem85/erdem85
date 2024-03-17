@@ -6,7 +6,7 @@ backend & ros developer, student
 
 Hi! I am 18 years old, high school student. I want to be backend developer in future. I runned the Hack Club (a student-led tech club) in my school! I participated FIRST Robotics Competition, Turkish national technology competition Teknofest and I made a degree in local tech competition TUBITAK in Turkey!
 
-* ✉️  You can contact me at [erdem@erdem.lol](mailto:erdem@erdem.lol)
+* ✉️  You can contact me at [contact@erdm.us](mailto:contact@erdm.us)
 
 ### Skills
 
